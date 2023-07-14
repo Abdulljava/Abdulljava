@@ -1,16 +1,16 @@
 ### 안녕하세요 👋
 
-<!--
-**Abdulljava/Abdulljava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+- 🔭 I’m currently working on ssafy curriculum  
 
-Here are some ideas to get you started:
+- 📫 How to reach me: j40605@naver.com/ j40605@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I have no experience in developing and coding  
+```
+<a href = "https://www.instagram.com/__ju.__.ju__/" target="_blank">
+<img src = "https://img.shields.io/badge/Instagram -E4405F?style=flat-square&logo=Instagram&logoColor=purple"/>
+</a>
+
+<a href = "">
+<img src = "https://img.shields.io/badge/Instagram -FFCD00?style=flat-square&logo=KaKaoTalk&logoColor=yellow"/>
+</a>
