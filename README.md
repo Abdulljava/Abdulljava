@@ -11,6 +11,8 @@
 <img src = "https://img.shields.io/badge/Instagram -E4405F?style=flat-square&logo=Instagram&logoColor=purple"/>
 </a>
 
-<a href = "">
-<img src = "https://img.shields.io/badge/Instagram -FFCD00?style=flat-square&logo=KaKaoTalk&logoColor=yellow"/>
+<a href = "https://open.kakao.com/o/sSryYfvf">
+<img src = "https://img.shields.io/badge/KaKaoTalk -FFCD00?style=flat-square&logo=KaKaoTalk&logoColor=brown"/>
 </a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdulljava&show_icons=true&theme=radical)
