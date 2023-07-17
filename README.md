@@ -1,5 +1,7 @@
 ### 안녕하세요 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20there&fontSize=90)
+
 ```
 - 🔭 I’m currently working on ssafy curriculum  
 
