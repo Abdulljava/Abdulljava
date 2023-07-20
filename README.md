@@ -8,6 +8,8 @@
 - 📫 How to reach me: j40605@naver.com/ j40605@gmail.com  
 
 - ⚡ Fun fact: I have no experience in developing and coding  
+
+- 🤣🤣🤣🤣 try '.' at any repository
 ```
 <a href = "https://www.instagram.com/__ju.__.ju__/" target="_blank">
 <img src = "https://img.shields.io/badge/Instagram -E4405F?style=flat-square&logo=Instagram&logoColor=purple"/>
